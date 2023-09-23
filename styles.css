@@ -1,0 +1,41 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+header {
+    background-color: #e4f9f5;
+    position: relative;
+    height: 100vh;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+
+header h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 0px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+header h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+main section {
+    height: 100vh;
+}
+
+.blue {
+    background-color: #e4f9f5;
+}
